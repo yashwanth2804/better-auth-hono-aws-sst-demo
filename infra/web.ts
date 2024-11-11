@@ -9,7 +9,7 @@ export const outputs = {
 };
 
 // domain: {
-//     name: "unheardhistory.in",
+//     name: "example.com",
 //     dns: false,
 //     cert: "arn:aws:acm:us-east-1:<account-id>:certificate/<certificate-id>"
 // }
